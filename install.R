@@ -4,3 +4,4 @@ BiocManager::install("DESeq2");
 BiocManager::install("EnhancedVolcano");
 install.packages("ashr", quietly = TRUE);
 install.packages("pheatmap", quietly = TRUE);
+install.packages("ggplot2", quietly = TRUE);
